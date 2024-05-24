@@ -9,7 +9,7 @@ This is the prototype developed for the Google Solution Challenge Ideathon 2024 
 ![image](https://github.com/super-fz/Amana/assets/122122054/aa39fa2d-1697-4754-b06e-c9c26d9efc81)
 
 
-Amana has been developed in line with the Sustainable Development Goals of the United Nations to cater to the goals of:
+Amana has been developed in line with the following Sustainable Development Goals of the United Nations:
 - No Poverty
 - Zero Hunger
 - Good Health and Well-Being
